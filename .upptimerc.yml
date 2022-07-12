@@ -13,7 +13,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: abujagonda.github.io
+  # cname: abujagonda.github.io
   baseUrl: /statusw
   theme: ocean
   logoUrl: https://cdn-aem.optum.com/content/dam/optum3/optum/skin/logos/optum_2x.png
