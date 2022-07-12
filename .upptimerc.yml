@@ -22,7 +22,7 @@ status-website:
   introMessage: This is a consolidated status page which uses **real-time** data from our [GitHub repository](https://github.com/abujagonda/statusw). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
-      href: /
+      href: /statusw
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
