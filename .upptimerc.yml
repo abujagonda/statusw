@@ -19,7 +19,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/abujagonda/statusw/master/assets/hcp-light-horizontal.svg
   faviconSvg: https://raw.githubusercontent.com/abujagonda/statusw/master/assets/hcp-light-horizontal.svg
   name: 
-  introTitle: "**Status**"
+  introTitle: "**Identity Platform Status**"
   introMessage: This is a consolidated status page which uses **real-time** monitoring data.
   navbar:
     - title: Identity Platform Status
