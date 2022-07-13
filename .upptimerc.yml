@@ -15,7 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: abujagonda.github.io
   baseUrl: /statusw
-  theme: ocean
+  theme: dark
   logoUrl: https://raw.githubusercontent.com/abujagonda/statusw/master/assets/hcp-light-horizontal.svg
   faviconSvg: https://raw.githubusercontent.com/abujagonda/statusw/master/assets/hcp-light-horizontal.svg
   name: Monitor
