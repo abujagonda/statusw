@@ -16,8 +16,8 @@ status-website:
   # cname: abujagonda.github.io
   baseUrl: /statusw
   theme: ocean
-  logoUrl: assets/hcp-light-horizontal.svg
-  faviconSvg: assets/hcp-light-horizontal.svg
+  logo: assets/hcp-light-horizontal.svg
+  favicon: assets/hcp-light-horizontal.svg
   name: HCP Identity Platform Status
   introTitle: "**Status**"
   introMessage: This is a consolidated status page which uses **real-time** data from our [GitHub repository](https://github.com/abujagonda/statusw). No server required — just GitHub Actions, Issues, and Pages.
