@@ -40,7 +40,7 @@
     "url": "https://engg.identity.uhg.com/realms/demo/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/engg.identity.uhg.com.ico",
     "slug": "digital-identity",
-    "status": "up",
+    "status": "down",
     "uptime": "96.21%",
     "uptimeDay": "98.50%",
     "uptimeWeek": "98.07%",
