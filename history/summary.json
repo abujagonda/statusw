@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 255,
-    "timeDay": 134,
-    "timeWeek": 176,
-    "timeMonth": 223,
+    "timeDay": 238,
+    "timeWeek": 188,
+    "timeMonth": 227,
     "timeYear": 250,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 274,
-    "timeDay": 147,
-    "timeWeek": 177,
-    "timeMonth": 245,
+    "timeDay": 217,
+    "timeWeek": 181,
+    "timeMonth": 248,
     "timeYear": 269,
     "dailyMinutesDown": {}
   },
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/engg.identity.uhg.com.ico",
     "slug": "digital-identity",
     "status": "up",
-    "uptime": "98.14%",
+    "uptime": "98.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.84%",
     "time": 1448,
-    "timeDay": 542,
-    "timeWeek": 577,
-    "timeMonth": 608,
-    "timeYear": 1314,
+    "timeDay": 1712,
+    "timeWeek": 802,
+    "timeMonth": 656,
+    "timeYear": 1316,
     "dailyMinutesDown": {
       "2023-06-07": 39,
       "2023-03-02": 19,
@@ -78,8 +78,7 @@
       "2022-08-26": 271,
       "2022-08-25": 198,
       "2022-08-24": 23,
-      "2022-08-23": 82,
-      "2022-08-22": 7
+      "2022-08-23": 82
     }
   }
 ]
