@@ -1,7 +1,7 @@
 url: https://engg.identity.uhg.com/realms/demo/.well-known/openid-configuration
 status: up
 code: 200
-responseTime: 902
-lastUpdated: 2023-11-15T23:17:46.772Z
+responseTime: 689
+lastUpdated: 2023-11-16T23:17:44.074Z
 startTime: 2022-07-12T16:38:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
