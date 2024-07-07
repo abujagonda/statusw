@@ -1,7 +1,7 @@
 url: https://engg.identity.uhg.com/realms/demo/.well-known/openid-configuration
 status: down
 code: 404
-responseTime: 208
-lastUpdated: 2024-07-06T23:17:40.175Z
+responseTime: 142
+lastUpdated: 2024-07-07T23:19:51.943Z
 startTime: 2022-07-12T16:38:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
