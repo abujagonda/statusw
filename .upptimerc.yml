@@ -7,8 +7,6 @@ sites:
     url: https://identity.onehealthcareid.com/app/index.html
   - name: Gov ID
     url: https://identity.optumgovid.com/app/index.html
-  - name: Digital Identity
-    url: https://engg.identity.uhg.com/realms/demo/.well-known/openid-configuration
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,13 +17,13 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/abujagonda/statusw/master/assets/hcp-light-horizontal.svg
   faviconSvg: https://raw.githubusercontent.com/abujagonda/statusw/master/assets/hcp-light-horizontal.svg
   name: Monitor
-  introTitle: "**Identity Platform Status**"
+  introTitle: "**Aikyam Identity Platform Status**"
   introMessage: This is a consolidated status page which uses **real-time** monitoring data.
   navbar:
     - title: Status
       href: /statusw
     - title: Docs
-      href: https://digitalidentity.uhg.com
+      href: http://glowing-carnival-8kpr6q4.pages.github.io/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
