@@ -6,18 +6,16 @@
     "slug": "one-healthcare-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
-    "timeDay": 230,
-    "timeWeek": 233,
+    "timeDay": 255,
+    "timeWeek": 213,
     "timeMonth": 248,
     "timeYear": 250,
-    "dailyMinutesDown": {
-      "2025-02-01": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gov ID",
@@ -26,17 +24,15 @@
     "slug": "gov-id",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 271,
-    "timeDay": 234,
-    "timeWeek": 242,
+    "timeDay": 233,
+    "timeWeek": 221,
     "timeMonth": 267,
     "timeYear": 272,
-    "dailyMinutesDown": {
-      "2025-02-01": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
