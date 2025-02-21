@@ -4,18 +4,19 @@
     "url": "https://identity.onehealthcareid.com/app/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/identity.onehealthcareid.com.ico",
     "slug": "one-healthcare-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 248,
-    "timeDay": 216,
-    "timeWeek": 246,
-    "timeMonth": 240,
+    "time": 247,
+    "timeDay": 269,
+    "timeWeek": 230,
+    "timeMonth": 236,
     "timeYear": 252,
     "dailyMinutesDown": {
+      "2025-02-21": 0,
       "2025-02-18": 18
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://identity.optumgovid.com/app/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/identity.optumgovid.com.ico",
     "slug": "gov-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 268,
-    "timeDay": 231,
-    "timeWeek": 250,
-    "timeMonth": 254,
+    "timeDay": 255,
+    "timeWeek": 236,
+    "timeMonth": 250,
     "timeYear": 273,
     "dailyMinutesDown": {
+      "2025-02-21": 0,
       "2025-02-18": 18
     }
   }
