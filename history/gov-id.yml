@@ -1,7 +1,7 @@
 url: https://identity.optumgovid.com/app/index.html
-status: down
-code: 403
-responseTime: 119
-lastUpdated: 2025-02-26T14:57:31.466Z
+status: up
+code: 200
+responseTime: 153
+lastUpdated: 2025-02-26T15:13:06.488Z
 startTime: 2022-07-12T16:38:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
